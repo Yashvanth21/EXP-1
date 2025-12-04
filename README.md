@@ -20,6 +20,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 PROCEDURE:
+
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -38,38 +39,40 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
-
 
 a.   KVL:
  
-
+<img width="1233" height="731" alt="image" src="https://github.com/user-attachments/assets/253f0da7-f541-41be-86d5-643e816834e0" />
 
 b.  KCL:
  
+<img width="1228" height="731" alt="image" src="https://github.com/user-attachments/assets/ded77aa5-8247-40e5-9ccd-0381120d2554" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="1213" height="787" alt="image" src="https://github.com/user-attachments/assets/94e27bd3-51e7-40c7-a920-2d1f5fe2b7cb" />
 
+<img width="1223" height="597" alt="image" src="https://github.com/user-attachments/assets/cd7550e6-1c0b-44d4-bdc4-126298709f69" />
 
 b.  KCL:
 
+<img width="653" height="732" alt="image" src="https://github.com/user-attachments/assets/8e6373e1-33d6-4f10-86c7-1ac4e8d920f0" />
 
-
+<img width="642" height="568" alt="image" src="https://github.com/user-attachments/assets/73dc989e-b01c-41ee-be4a-9e1d9191e712" />
 
 Tabulation:
 
 a.   KVL:
  
-
+<img width="652" height="442" alt="image" src="https://github.com/user-attachments/assets/491654f2-c845-45e0-82c8-1dbd2ef71ec6" />
 
 b.  KCL:
 
-
+<img width="650" height="185" alt="image" src="https://github.com/user-attachments/assets/923c36f3-ae46-4763-a53d-28668c0ac427" />
 
 RESULT:
 
